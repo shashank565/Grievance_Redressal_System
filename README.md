@@ -31,4 +31,4 @@ There are many advantages of tge model developed :
 
 The other end of the web application involves admin dashboard with features of sending an acknowledgement to the victims via mail.
 
-Texhnology stack:: python libraries (pandas/Numpy/Matplotlib), Javascript, Html, css, Flask, sqlite3 ).
+Technology stack:: python libraries (pandas/Numpy/Matplotlib), Javascript, Html, css, Flask, sqlite3 ).
